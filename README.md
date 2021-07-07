@@ -1,3 +1,3 @@
-# TuringSence
+# TuringSense
 test file fithub
 
